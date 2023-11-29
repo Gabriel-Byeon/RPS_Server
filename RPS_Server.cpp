@@ -8,7 +8,7 @@
 
 #pragma comment(lib, "ws2_32.lib")
 
-#define PORT 8080
+#define PORT 9000
 
 GameType determineGameType() {
     // 가위바위보로 선공을 정함
